@@ -1,12 +1,9 @@
 ---
 role: Chercheur en Mathématiques
 avatar_filename: photo2.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Théorie_des_noeuds
 social:
   - icon: envelope
     icon_pack: fas
