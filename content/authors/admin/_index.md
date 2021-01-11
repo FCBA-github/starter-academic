@@ -42,9 +42,10 @@ highlight_name: false
 title: Fathi Ben Aribi
 email: ""
 ---
+Je suis chercheur en mathématiques, actuellement en post-doctorat à l'Institut de recherche en mathématique et physique, à l'Université catholique de Louvain, en tant que Chargé de Recherches FNRS.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mon domaine de recherche est la théorie des nœuds, qui est une branche de la topologie de petite dimension. Je m'intéresse plus spécifiquement à des objets issus de la géométrie hyperbolique, de la topologie quantique et de la théorie des invariants L².
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Je m'investis également dans la vulgarisation scientifique.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Voici mon {{< staticref "media/demo_resume.pdf" "newtab" >}}CV en français{{< /staticref >}}.
