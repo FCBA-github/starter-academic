@@ -3,7 +3,7 @@ role: Chercheur en Mathématiques
 avatar_filename: photo2.jpg
 bio: ""
 interests:
-  - Théorie_des_noeuds
+  - Théorie des noeuds
 social:
   - icon: envelope
     icon_pack: fas
